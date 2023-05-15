@@ -1,0 +1,5 @@
+Program Version,Conversion 9.3 => 9.4
+   ** Severe  ** IP: IDF line~3209 Did not find "OutputControl:Files" in list of Objects
+   ** Severe  ** Possible incorrect IDD File
+   **   ~~~   ** Possible Invalid Numerics or other problems
+   ************* Conversion Completed Successfully-- 0 Warning; 2 Severe Errors
